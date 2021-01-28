@@ -6,7 +6,7 @@
 
 [![GitHub An0nySec](https://img.shields.io/github/followers/An0nySec?label=follower%20github&style=flat-square)](https://github.com/An0nySec)
 
-<img align='right' src="https://profile-counter.glitch.me/An0on/count.svg" width="200">
+<img align='right' src="https://profile-counter.glitch.me/An0nySec/count.svg" width="200">
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=An0nySec&show_icons=true&hide_border=true&theme=buefy">
