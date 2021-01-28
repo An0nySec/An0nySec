@@ -4,7 +4,7 @@
 
 :e-mail: [anonysec@vip.qq.com](mailto:anonysec@vip.qq.com)
 
-⭐ [![GitHub An0nySec](https://img.shields.io/github/followers/An0nySec?label=follower%20github&style=flat-square)](https://github.com/An0nySec)
+[![GitHub An0nySec](https://img.shields.io/github/followers/An0nySec?label=follower%20github&style=flat-square)](https://github.com/An0nySec)
 
 <img align='right' src="https://profile-counter.glitch.me/An0on/count.svg" width="200">
 
