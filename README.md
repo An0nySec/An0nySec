@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> Hi there</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Hi there</h2>
 
 ✍ [AnonySec'Blog](https://payloads.cn)
 
