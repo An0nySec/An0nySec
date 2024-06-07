@@ -8,7 +8,6 @@
 
 <p>
   <img align='center' src="https://profile-counter.glitch.me/An0nySec/count.svg" width="200">
-   关注微信公众号"戟安极客"，后续将发表更多安全攻防技术文章！
   <img src="https://payloads.oss-cn-hangzhou.aliyuncs.com/wechat.jpg" width="400">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=An0nySec&show_icons=true&hide_border=true&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nySec&layout=compact&hide_border=true&theme=buefy&show_icons=true">
