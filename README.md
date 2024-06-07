@@ -8,7 +8,6 @@
 
 <p>
   <img align='center' src="https://profile-counter.glitch.me/An0nySec/count.svg" width="200">
-  <img src="https://payloads.oss-cn-hangzhou.aliyuncs.com/wechat.jpg" width="400">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=An0nySec&show_icons=true&hide_border=true&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nySec&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 </p>
