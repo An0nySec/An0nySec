@@ -7,6 +7,7 @@
 [![GitHub An0nySec](https://img.shields.io/github/followers/An0nySec?label=follower%20github&style=flat-square)](https://github.com/An0nySec)
 
 <p>
+  <title>关注微信公众号"戟安极客"，后续将发表更多安全攻防技术文章！</title>
   <img align='center' src="https://profile-counter.glitch.me/An0nySec/count.svg" width="200">
   <img src="https://payloads.oss-cn-hangzhou.aliyuncs.com/wechat.jpg" width="400">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=An0nySec&show_icons=true&hide_border=true&theme=buefy">
