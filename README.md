@@ -10,7 +10,7 @@
   <img align='right' src="https://profile-counter.glitch.me/An0nySec/count.svg" width="200">
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=An0nySec&show_icons=true&hide_border=true&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nySec&layout=compact&hide_border=true&theme=buefy&show_icons=true">
-  <img src="https://payloads.oss-cn-hangzhou.aliyuncs.com/wechat.jpg" width="100">
+  <img align='right' src="https://payloads.oss-cn-hangzhou.aliyuncs.com/wechat.jpg" width="500">
 </p>
 
 
